@@ -6,6 +6,6 @@
  <li>This repository Contains Code of Modified N queen problem </li>
  <li>User can choose size of chesss board as well as Number of queens to be placed</li>
  <li> Output will Contain a 2-D Matrix of 1 and 0 where 1 denotes the presence of Queen and 0 denotes Empty place</li>
- 
-  
 </ul>
+
+![test1](https://github.com/Utkarsh44484/N_Queen/blob/main/DAA%20TA2/Test%20Cases/Test%20Case%202.png)
